@@ -1,0 +1,56 @@
+[
+  {
+    "category": "Chocolate",
+    "color": "brown",
+    "products": [
+      {
+        "name": "Chocolate tub",
+        "image": "https://s3-alpha-sig.figma.com/img/0f5a/f49b/89d4a0b11aee939e38dc02563d98d1fa?Expires=1704067200&Signature=Kv4yRnxfadKm8YFJjqtEww4xeFQQueUsKSrTx8NdfHLuvya9HNtstCIriJ26MYkEJfnJlXEXiHtdLwKsbH9c7~OVkPQb2HGEfDLGupKWJZiEBbjg5LIPPlhPv7ajX92YnmTiDsEFW9RKpCyr0xWvZquhuYQB264A5LxnvqXAYIzisS7SZxnMcyzb2~1FXe5CFGa86A-vR7uYpnf2vkHP3p3AUemQ33e4bjlfsdKq9JHfr9c4U5YJm7BoIAuBZJUMdUG65Y8uaBwaKZ26Mwii1NVkO9lZs118yvc2~jxs46jFHJktFkfzndD3IyAJMIWgZxt8Wt5BkbHWKnE9SL4jdg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+      },
+      {
+        "name": "Chocolate tara-tara",
+        "image": "https://s3-alpha-sig.figma.com/img/1262/9e81/03b8f72ec75f1bf558bc455d09945cbc?Expires=1704067200&Signature=h--gIW1O3oXq8OlPmzObDI2DoC11S7x~MrmCQMdOdGR-mt0D1ivpL3whiJntfdGnelwGGSsCKbstXTK6gPmeUdNxBf6KYRBlUJtKLMj7MASLgOuBUkEJQmxwOjt8Wg~2QJ4ObU2EUbDg9ZBjogdgkHmd1G0n9sBxp2TcoNAX1yf3J-KyXxgV3txJM988poe0OTInnbM-NA7bQKFIierYfjIvzjoZoVv41C5BCmU1ab1JorbKZxNu4HfrSkeYYjvVY-3oocgyZ6JCkuCMgyfj~ss40J8BwIpo42jf2xdlifpF-Ao9VUjWm4SvOfEMU4XbrPIXylQI-PnD4UH0Ctgf~w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+      },
+      {
+        "name": "Choco fusion",
+        "image": "https://s3-alpha-sig.figma.com/img/0f5a/f49b/89d4a0b11aee939e38dc02563d98d1fa?Expires=1704067200&Signature=Kv4yRnxfadKm8YFJjqtEww4xeFQQueUsKSrTx8NdfHLuvya9HNtstCIriJ26MYkEJfnJlXEXiHtdLwKsbH9c7~OVkPQb2HGEfDLGupKWJZiEBbjg5LIPPlhPv7ajX92YnmTiDsEFW9RKpCyr0xWvZquhuYQB264A5LxnvqXAYIzisS7SZxnMcyzb2~1FXe5CFGa86A-vR7uYpnf2vkHP3p3AUemQ33e4bjlfsdKq9JHfr9c4U5YJm7BoIAuBZJUMdUG65Y8uaBwaKZ26Mwii1NVkO9lZs118yvc2~jxs46jFHJktFkfzndD3IyAJMIWgZxt8Wt5BkbHWKnE9SL4jdg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+      }
+    ]
+  },
+  {
+    "category": "vanilla",
+    "color": "brown",
+    "products": [
+      {
+        "name": "Chocolate tub",
+        "image": "https://s3-alpha-sig.figma.com/img/0f5a/f49b/89d4a0b11aee939e38dc02563d98d1fa?Expires=1704067200&Signature=Kv4yRnxfadKm8YFJjqtEww4xeFQQueUsKSrTx8NdfHLuvya9HNtstCIriJ26MYkEJfnJlXEXiHtdLwKsbH9c7~OVkPQb2HGEfDLGupKWJZiEBbjg5LIPPlhPv7ajX92YnmTiDsEFW9RKpCyr0xWvZquhuYQB264A5LxnvqXAYIzisS7SZxnMcyzb2~1FXe5CFGa86A-vR7uYpnf2vkHP3p3AUemQ33e4bjlfsdKq9JHfr9c4U5YJm7BoIAuBZJUMdUG65Y8uaBwaKZ26Mwii1NVkO9lZs118yvc2~jxs46jFHJktFkfzndD3IyAJMIWgZxt8Wt5BkbHWKnE9SL4jdg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+      },
+      {
+        "name": "Chocolate tara-tara",
+        "image": "https://s3-alpha-sig.figma.com/img/1262/9e81/03b8f72ec75f1bf558bc455d09945cbc?Expires=1704067200&Signature=h--gIW1O3oXq8OlPmzObDI2DoC11S7x~MrmCQMdOdGR-mt0D1ivpL3whiJntfdGnelwGGSsCKbstXTK6gPmeUdNxBf6KYRBlUJtKLMj7MASLgOuBUkEJQmxwOjt8Wg~2QJ4ObU2EUbDg9ZBjogdgkHmd1G0n9sBxp2TcoNAX1yf3J-KyXxgV3txJM988poe0OTInnbM-NA7bQKFIierYfjIvzjoZoVv41C5BCmU1ab1JorbKZxNu4HfrSkeYYjvVY-3oocgyZ6JCkuCMgyfj~ss40J8BwIpo42jf2xdlifpF-Ao9VUjWm4SvOfEMU4XbrPIXylQI-PnD4UH0Ctgf~w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+      },
+      {
+        "name": "Choco fusion",
+        "image": "https://s3-alpha-sig.figma.com/img/0f5a/f49b/89d4a0b11aee939e38dc02563d98d1fa?Expires=1704067200&Signature=Kv4yRnxfadKm8YFJjqtEww4xeFQQueUsKSrTx8NdfHLuvya9HNtstCIriJ26MYkEJfnJlXEXiHtdLwKsbH9c7~OVkPQb2HGEfDLGupKWJZiEBbjg5LIPPlhPv7ajX92YnmTiDsEFW9RKpCyr0xWvZquhuYQB264A5LxnvqXAYIzisS7SZxnMcyzb2~1FXe5CFGa86A-vR7uYpnf2vkHP3p3AUemQ33e4bjlfsdKq9JHfr9c4U5YJm7BoIAuBZJUMdUG65Y8uaBwaKZ26Mwii1NVkO9lZs118yvc2~jxs46jFHJktFkfzndD3IyAJMIWgZxt8Wt5BkbHWKnE9SL4jdg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+      }
+    ]
+  },
+  {
+    "category": "pista",
+    "color": "brown",
+    "products": [
+      {
+        "name": "Chocolate tub",
+        "image": "https://s3-alpha-sig.figma.com/img/0f5a/f49b/89d4a0b11aee939e38dc02563d98d1fa?Expires=1704067200&Signature=Kv4yRnxfadKm8YFJjqtEww4xeFQQueUsKSrTx8NdfHLuvya9HNtstCIriJ26MYkEJfnJlXEXiHtdLwKsbH9c7~OVkPQb2HGEfDLGupKWJZiEBbjg5LIPPlhPv7ajX92YnmTiDsEFW9RKpCyr0xWvZquhuYQB264A5LxnvqXAYIzisS7SZxnMcyzb2~1FXe5CFGa86A-vR7uYpnf2vkHP3p3AUemQ33e4bjlfsdKq9JHfr9c4U5YJm7BoIAuBZJUMdUG65Y8uaBwaKZ26Mwii1NVkO9lZs118yvc2~jxs46jFHJktFkfzndD3IyAJMIWgZxt8Wt5BkbHWKnE9SL4jdg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+      },
+      {
+        "name": "Chocolate tara-tara",
+        "image": "https://s3-alpha-sig.figma.com/img/1262/9e81/03b8f72ec75f1bf558bc455d09945cbc?Expires=1704067200&Signature=h--gIW1O3oXq8OlPmzObDI2DoC11S7x~MrmCQMdOdGR-mt0D1ivpL3whiJntfdGnelwGGSsCKbstXTK6gPmeUdNxBf6KYRBlUJtKLMj7MASLgOuBUkEJQmxwOjt8Wg~2QJ4ObU2EUbDg9ZBjogdgkHmd1G0n9sBxp2TcoNAX1yf3J-KyXxgV3txJM988poe0OTInnbM-NA7bQKFIierYfjIvzjoZoVv41C5BCmU1ab1JorbKZxNu4HfrSkeYYjvVY-3oocgyZ6JCkuCMgyfj~ss40J8BwIpo42jf2xdlifpF-Ao9VUjWm4SvOfEMU4XbrPIXylQI-PnD4UH0Ctgf~w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+      },
+      {
+        "name": "Choco fusion",
+        "image": "https://s3-alpha-sig.figma.com/img/0f5a/f49b/89d4a0b11aee939e38dc02563d98d1fa?Expires=1704067200&Signature=Kv4yRnxfadKm8YFJjqtEww4xeFQQueUsKSrTx8NdfHLuvya9HNtstCIriJ26MYkEJfnJlXEXiHtdLwKsbH9c7~OVkPQb2HGEfDLGupKWJZiEBbjg5LIPPlhPv7ajX92YnmTiDsEFW9RKpCyr0xWvZquhuYQB264A5LxnvqXAYIzisS7SZxnMcyzb2~1FXe5CFGa86A-vR7uYpnf2vkHP3p3AUemQ33e4bjlfsdKq9JHfr9c4U5YJm7BoIAuBZJUMdUG65Y8uaBwaKZ26Mwii1NVkO9lZs118yvc2~jxs46jFHJktFkfzndD3IyAJMIWgZxt8Wt5BkbHWKnE9SL4jdg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+      }
+    ]
+  }
+]
