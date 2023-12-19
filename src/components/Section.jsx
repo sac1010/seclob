@@ -13,13 +13,6 @@ const Section = () => {
           aperiam debitis cumque quae culpa explicabo dolores temporibus quidem
           aut consequatur reprehenderit dolorem, suscipit nihil repudiandae
           soluta distinctio molestiae commodi odio deleniti aspernatur quisquam
-          ut unde! Nam odit ducimus molestias esse. Lorem ipsum dolor sit amet
-          consectetur, adipisicing elit. Et hic eum veritatis! Error a nesciunt
-          quas, modi perspiciatis doloribus, assumenda aperiam ipsum magni
-          cupiditate ullam! Quibusdam, impedit labore vitae harum deleniti
-          optio. Doloremque non aperiam quis ipsam dolor necessitatibus id,
-          facilis eaque est omnis adipisci illo quibusdam, esse error
-          reiciendis! Eaque du
         </div>
       </div>
     </div>
