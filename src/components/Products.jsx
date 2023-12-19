@@ -9,8 +9,8 @@ const Products = () => {
         Products
       </div>
       <div>
-        {data.map((category) => {
-          return <ProductSection productSection={category}/>;
+        {data.map((category,i) => {
+          return <ProductSection key={i} productSection={category}/>;
         })}
       </div>
     </div>
